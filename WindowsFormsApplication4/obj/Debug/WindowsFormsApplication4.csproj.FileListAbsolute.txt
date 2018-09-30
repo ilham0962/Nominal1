@@ -1,0 +1,17 @@
+D:\jvddddd\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\jvddddd\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+D:\jvddddd\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+D:\jvddddd\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\jvddddd\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+D:\jvddddd\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\jvddddd\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\jvddddd\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ClassLibrary1.dll
+D:\jvddddd\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ClassLibrary1.pdb
+D:\jvddddd\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\jvddddd\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+F:\AMIKOM\Semester 3\Pemrograman\Tugas\2\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+F:\AMIKOM\Semester 3\Pemrograman\Tugas\2\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+F:\AMIKOM\Semester 3\Pemrograman\Tugas\2\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+F:\AMIKOM\Semester 3\Pemrograman\Tugas\2\Konvers\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+F:\AMIKOM\Semester 3\Pemrograman\Tugas\2\Konvers\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+F:\AMIKOM\Semester 3\Pemrograman\Tugas\2\Konvers\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
